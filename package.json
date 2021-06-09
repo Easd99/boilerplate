@@ -3,6 +3,7 @@
 	"author": "Erick Solano",
 	"description": "This is a FreeCodeCamp's tutorial",
 	"keywords": ["freecodecamp", "tutorial"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
